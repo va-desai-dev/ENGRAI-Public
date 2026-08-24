@@ -31,14 +31,17 @@ The current macOS build is distributed as a **Developer ID-signed and Apple-nota
 
 ENGRAI requires **macOS 26 or later**. You should not need to disable Gatekeeper, remove quarantine attributes, or use a security bypass. If macOS asks you to bypass a warning, delete that copy and download the DMG again from this repository.
 
-### Verify your download
+### Verifying Application Security
 
-Ask Gatekeeper to validate the notarization ticket. You can also calculate the file's SHA-256 digest and compare it with a checksum in the release notes when one is provided:
+To confirm this build is officially signed and notarized by Apple before launching it for the first time, open your terminal and verify the application bundle directly:
 
-```sh
-shasum -a 256 ~/Downloads/ENGRAI-*.dmg
-spctl --assess --type install --verbose=4 ~/Downloads/ENGRAI-*.dmg
+```bash
+spctl --assess --type execute --verbose=4 /Applications/ENGRAI.app
 ```
+
+When verified, the system will return:
+`accepted (source=Notarized Developer ID)`
+
 
 Gatekeeper should report that the artifact is accepted and identify its source as a notarized Developer ID.
 
