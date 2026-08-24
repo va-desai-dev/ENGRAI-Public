@@ -51,11 +51,7 @@ ENGRAI is a native Apple-platform client for sustained, character-driven convers
 The app turns structured character and persona settings into a predictable prompt, keeps durable session memories separate from recent chat history, and tracks how relationships change over time. The prompt system is documented so its behavior can be inspected instead of guessed at.
 
 <p align="center">
-  <img src="Screenshots/S1.jpg" alt="An ENGRAI character conversation" width="31%">
-  &nbsp;
-  <img src="Screenshots/S2.jpg" alt="ENGRAI character behavior controls" width="31%">
-  &nbsp;
-  <img src="Screenshots/S3.jpg" alt="ENGRAI session memory ledger" width="31%">
+  <img src="ENGRAI_Board.jpg" alt="An ENGRAI character conversation" width="100%">
 </p>
 
 ### Built around continuity
