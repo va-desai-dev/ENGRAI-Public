@@ -120,7 +120,7 @@ The reference material in [`Documentation.docc`](Documentation.docc/) explains t
 | [Prompt assembly reference](Documentation.docc/PromptAssemblyReference.md) | The detailed construction and provider-wrapping contract |
 | [Slider reading reference](Documentation.docc/SliderReadingReference.md) | How structured character values become natural-language guidance |
 | [Summarizer prompt reference](Documentation.docc/SummarizerPromptReference.md) | Memory-ledger updates and relationship deltas |
-| [Terms of Service](Documentation.docc/Terms%26Services.md) | Eligibility, permitted use, privacy, limitations, and support |
+| [Terms of Service](https://github.com/va-desai-dev/ENGRAI-Release/blob/main/TERMS.md) | Eligibility, permitted use, privacy, limitations, and support |
 
 ---
 
