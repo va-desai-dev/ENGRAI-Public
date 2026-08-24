@@ -14,7 +14,7 @@ shaping how they behave, and carrying context across conversations.
 ![Bring your own key](https://img.shields.io/badge/models-bring_your_own_key-6f42c1)
 ![18+](https://img.shields.io/badge/age-18%2B-b42318)
 
-**[Download for macOS](https://github.com/va-desai-dev/ENGRAI/releases)** · [Read the documentation](Documentation.docc/) · [Report an issue](https://github.com/va-desai-dev/ENGRAI/issues)
+**[Download for macOS](https://github.com/va-desai-dev/ENGRAI/releases)** · [Read the documentation](#documentation) · [Report an issue](https://github.com/va-desai-dev/ENGRAI/issues)
 
 </div>
 
