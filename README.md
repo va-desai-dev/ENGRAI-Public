@@ -7,7 +7,7 @@
 A local-first, bring-your-own-model client for creating persistent characters,<br>
 shaping how they behave, and carrying context across conversations.
 
-[![Download the latest notarized DMG](https://img.shields.io/badge/Download-Latest_notarized_DMG-ff2d78?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/va-desai-dev/ENGRAI/releases)
+[![Download for macOS](https://img.shields.io/badge/Download-for%20macOS-black?style=for-the-badge&logo=apple)](https://github.com/va-desai-dev/ENGRAI/releases)
 
 [![macOS 26+](https://img.shields.io/badge/macOS-26%2B-111111?logo=apple)](https://github.com/va-desai-dev/ENGRAI/releases)
 ![Apple notarized](https://img.shields.io/badge/Apple-notarized-2da44e)
