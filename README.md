@@ -1,4 +1,5 @@
 <div align="center">
+  
 # ENGRAI
 
 ### Character conversations that remember who they are.
@@ -147,4 +148,3 @@ Third-party components retain their respective licenses; see [THIRD-PARTY-NOTICE
 Copyright © 2026 Vedant Desai
 
 </div>
-blic
